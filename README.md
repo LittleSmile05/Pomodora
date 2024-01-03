@@ -35,7 +35,7 @@ To run this application, you need to have the following installed:
     npm start
     ```
 
-6. Open your browser and go to `http://localhost:3000`.
+6. Open your browser and go to `http://localhost:3002`.
 
 ## Usage
 
